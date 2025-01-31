@@ -1,7 +1,6 @@
 
 **Cloning an React project and running locally**
 
-### `git clone https://github.com/nithingooud/nithin-portfolio`
 ### `cd abi-portfolio`
 
 **Look at the files and folder of the project**
